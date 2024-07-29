@@ -1,16 +1,16 @@
-## Hi there 👋
+### Warrick Lo
 
-<!--
-**warrick-lo/warrick-lo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+All personal Git repositories will soon be migrated to [`github/warricklo`](https://github.com/warricklo) and mirrored to [`https://git.warricklo.net`](https://git.warricklo.net).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[`https://warricklo.net`](https://warricklo.net)
+
+###### Contact via email
+
+PGP: [`2F60 9732 6A28 4401 DA0A BA50 A5EE 4C1C 4F73 76B8`](https://warricklo.net/public.pgp)
+
+* ~~[`wlo@warricklo.net`](mailto:wlo@warricklo.net)~~
+* [`warrick.s.z.lo@gmail.com`](mailto:warrick.s.z.lo@gmail.com)
+* ~~[`warrick@ece.ubc.ca`](mailto:warrick@ece.ubc.ca)~~
+* [`warrickl@student.ubc.ca`](mailto:warrickl@student.ubc.ca)
